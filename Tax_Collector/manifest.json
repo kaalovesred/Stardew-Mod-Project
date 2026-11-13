@@ -1,0 +1,10 @@
+{
+  "Name": "Tax_Collector",
+  "Author": "K&K",
+  "Version": "0.1",
+  "Description": "Adds the tax collector, for added difficulty",
+  "UniqueID": "Tax.Collector",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "Format": "2.9.0",
+    "Changes":
+	  [
+   	 {
+   		 "LogName": "Blank JSON load",
+        	"Action": "Load",
+        	"Target": "Characters/Dialogue/Tax.Collector_NPCName, Characters/schedules/Tax.Collector_NPCName, Strings/schedules/Tax.Collector_NPCName",
+        	"FromFile": "assets/blank.json"
+     },
+	 {
+		"LogName": "Jorts and Jean exist!",
+   		 "Action": "Include",
+   		 "FromFile": "assets/data/dispos.json"
+	 }
+	]
+
+
+
+
+
+
+
+
+}
