@@ -5,14 +5,36 @@
    	 {
    		 "LogName": "Blank JSON load",
         	"Action": "Load",
-        	"Target": "Characters/Dialogue/Tax.Collector_NPCName, Characters/schedules/Tax.Collector_NPCName, Strings/schedules/Tax.Collector_NPCName",
+        	"Target": "Characters/Dialogue/Tax.Collector_Tax_Collector, Characters/schedules/Tax.Collector_Tax_Collector, Strings/schedules/Tax.Collector_Tax_Collector",
         	"FromFile": "assets/blank.json"
      },
 	 {
-		"LogName": "Jorts and Jean exist!",
+		"LogName": "NPC Disposition",
    		 "Action": "Include",
    		 "FromFile": "assets/data/dispos.json"
-	 }
+	 },
+	 {
+        "LogName": "NPC Schedule",
+   		 "Action": "Include",
+   		 "FromFile": "assets/data/schedule.json"
+     },
+	 {
+        "LogName": "NPC Dialogue",
+   		 "Action": "Include",
+   		 "FromFile": "assets/data/dialogue.json"
+     },
+	 {
+        "LogName": "Base Portraits",
+        "Action": "Load",
+        "Target": "Portraits/Tax.Collector_Tax_Collector",
+        "FromFile": "assets/images/Tax_Collector.png"
+   	 },
+	 {
+        	"LogName": "Base Sprites",
+        	"Action": "Load",
+        	"Target": "Characters/Tax.Collector_Tax_Collector",
+        	"FromFile": "assets/images/Tax_Collectorsprites.png"
+   	 }
 	]
 
 

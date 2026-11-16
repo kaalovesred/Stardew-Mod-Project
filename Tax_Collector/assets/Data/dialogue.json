@@ -1,0 +1,18 @@
+{
+  "Changes": [
+    {
+      "LogName": "Tax_Collector Dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Tax_Collector",
+      "Entries": {
+    "Mon": "Yo", 
+    "Tue": "Hey",
+    "Wed": "Wussup",
+    "Thu": "Howdy",
+    "Fri": "Caramel",
+    "Sat": "Liquorice",
+    "Sun": "Did I spell that last one right?"
+      }
+    }
+  ]
+}
