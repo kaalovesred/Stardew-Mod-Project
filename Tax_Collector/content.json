@@ -24,13 +24,13 @@
    		 "FromFile": "assets/data/dialogue.json"
      },
 	 {
-        "LogName": "Base Portraits",
+        "LogName": "NPC Portraits",
         "Action": "Load",
         "Target": "Portraits/Tax.Collector_Tax_Collector",
         "FromFile": "assets/images/Tax_Collector.png"
    	 },
 	 {
-        	"LogName": "Base Sprites",
+        	"LogName": "NPC Sprites",
         	"Action": "Load",
         	"Target": "Characters/Tax.Collector_Tax_Collector",
         	"FromFile": "assets/images/Tax_Collectorsprites.png"
