@@ -3,15 +3,15 @@
     {
       "LogName": "Tax_Collector Dialogue",
       "Action": "EditData",
-      "Target": "Characters/Dialogue/Tax_Collector",
+      "Target": "Characters/Dialogue/Tax.Collector_Tax_Collector",
       "Entries": {
-    "Mon": "Yo", 
-    "Tue": "Hey",
-    "Wed": "Wussup",
-    "Thu": "Howdy",
-    "Fri": "Caramel",
-    "Sat": "Liquorice",
-    "Sun": "Did I spell that last one right?"
+    "Mon": "Good day, hope you're keeping busy!", 
+    "Tue": "Lovely weather, wouldn't you say?",
+    "Wed": "I'm looking for Lewis, you wouldn't happen to know where he is, would you?",
+    "Thu": "Good to see that there are still new faces in this quaint town.",
+    "Fri": "I wish the general store sold more than just simple supplies.",
+    "Sat": "What could you want on a day like this?",
+    "Sun": "Ahh, the beach. It's one of my few guilty pleasures"
       }
     }
   ]
